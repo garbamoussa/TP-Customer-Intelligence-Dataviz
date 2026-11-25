@@ -2,7 +2,7 @@
 
 **Niveau :** Master  
 **Outils au choix :** Looker Studio ou Tableau Public  
-**Durée indicative :** 6 à 8 heures  
+**Durée indicative :** 1H
 **Contexte :** Customer Intelligence dans le secteur bancaire
 
 ## 1. Mission
