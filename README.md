@@ -1,8 +1,17 @@
 # TP – Customer Intelligence : création d'un dashboard Dataviz
 
-**Niveau :** Master  
-**Outils au choix :** Looker Studio ou Tableau Public  
-**Durée indicative :** 1H
+Pôle Léonard de Vinci : Campus de l’Arche
+
+Classe : A4 AIMSA4 EDIA DATA
+
+https://www.iim.fr/cursus/mastere-ai-marketing-strategy/
+
+
+
+
+
+
+
 **Contexte :** Customer Intelligence dans le secteur bancaire
 
 ## 1. Mission
